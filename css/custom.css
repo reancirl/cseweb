@@ -1,1 +1,7 @@
-/*! Place your custom styles here */
+.nav-link{
+	color:white;
+	font-weight: bolder;
+}
+.course-border{
+	border:2px solid black;
+}
