@@ -1,7 +1,35 @@
-.nav-link{
+*{
+	font-family: Verdana;
+}
+i{
 	color:white;
+}
+a{
+	text-decoration: none !important;
+}
+li{
+	display: inline;
+	margin: auto;
+}
+#nav-link{
 	font-weight: bolder;
 }
 .course-border{
-	border:2px solid black;
+	border:4px solid #5bc0be;	
+}
+.icon-course{
+	background: linear-gradient(to bottom right, #51C091, #09879D);
+    border-radius: 50%;
+    padding:18px 18px;
+  	transition: background .5s ease;
+}
+.icon-course:hover{ 
+	background:#5bc0be;
+	cursor: pointer;
+}
+.color--white{
+	color:white;
+}
+.bg-cse{
+	background: linear-gradient(to bottom right, #51C091, #09879D);
 }
