@@ -33,3 +33,13 @@ a{
 .bg-cse{
 	background: linear-gradient(to bottom right, #51C091, #09879D);
 }
+.font-1{
+	font-family: Verdana;
+}
+.outline-1 {
+	color: #ffffff;
+	-webkit-text-stroke:1.5px black;
+	font-weight: bolder;
+	font-size: 1.2em;
+	font-family: tesla;
+}
